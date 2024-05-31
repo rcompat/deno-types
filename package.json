@@ -1,6 +1,6 @@
 {
   "name": "types-deno",
-  "version": "0.1.0-1.43.5",
+  "version": "0.2.0-1.43.5",
   "types": "./types/index.d.ts",
   "scripts": {
     "update": "./update.sh"
